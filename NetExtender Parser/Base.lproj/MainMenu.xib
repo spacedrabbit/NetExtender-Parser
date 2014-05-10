@@ -720,6 +720,7 @@
         <customObject id="494" customClass="AppDelegate">
             <connections>
                 <outlet property="browseButton" destination="GKm-xP-PoY" id="JlM-sQ-vFp"/>
+                <outlet property="dataTextView" destination="de2-iE-lxQ" id="uGT-Gp-HlR"/>
                 <outlet property="filePathText" destination="c2k-PQ-1He" id="pyF-xb-YOX"/>
                 <outlet property="window" destination="371" id="532"/>
             </connections>
